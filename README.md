@@ -6,9 +6,7 @@ Classification on playing card images using a Convolutional Neural Network
 
 This project takes a labeled dataset of playing card images from multiple decks, and attempts to classify them based on both value and suit.
 
-~7600 training data
-~300 testing data
-53 classes
+~7600 training data / ~300 testing data / 53 classes
 
 The dataset was found on Kaggle: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
 
